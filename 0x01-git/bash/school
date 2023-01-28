@@ -1,2 +1,6 @@
 #!/bin/bassh
+<<<<<<< HEAD
 echo "The School is open!"
+=======
+echo "School"
+>>>>>>> update_script
